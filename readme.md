@@ -9,7 +9,7 @@ This app is designed to work as an "Action" in automation workflows (like **Xiao
 
 
 ## 📥 Installation
-You can download the latest installable APK from releases Section or [this link](https://github.com/MarkoD0/Simple-Sound-Player-Android-App/releases/download/v1.0/app-debug.apk). 
+You can download the latest installable APK from releases section or [this link](https://github.com/MarkoD0/Simple-Sound-Player-Android-App/releases/download/v1.0/app-debug.apk). 
 #### (Note: This is a Debug Build)
 1. Download the `.apk` file.
 2. Transfer it to your Android device.
